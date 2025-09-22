@@ -9,7 +9,7 @@
 #include "hardware_interface/types/lifecycle_state_names.hpp"
 #include "lifecycle_msgs/msg/state.hpp"
 #include "rclcpp_lifecycle/state.hpp"
-#include "hardware_interface/test_components/urdf/test_components.hpp"
+#include "ros2_control_test_assets/urdf/test_components.hpp"
 #include "ros2_control_test_assets/descriptions.hpp"
 
 // Based on tutorial
